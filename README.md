@@ -1,10 +1,17 @@
-# Microsoft SQL Server 2025
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
+
+# Migración Microsoft SQL Server 2025
+
+----
+
+## Plataforma de laboratorios
+
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Migración Microsoft SQL Server 2025**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 Curso orientado a actualizar los conocimientos de los administradores de SQL Server en las capacidades de SQL Server 2025 sobre entornos Windows Server. Aborda novedades del motor de base de datos, optimización y rendimiento, integración con inteligencia artificial y Microsoft Copilot, seguridad, migración hacia Windows Server 2025 y buenas prácticas para la administración de entornos modernos
 
-## Estructura
-
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
+-----
 
 ## Lista de laboratorios
 
@@ -44,8 +51,14 @@ Curso orientado a actualizar los conocimientos de los administradores de SQL Ser
   - Descripción: Realizar una simulación de migración desde entornos 2019/2022 hacia 2025 y ejecutar la validación post-migración considerando compatibilidad, herramientas y riesgos comunes.
   - Duración estimada: 40 min
 
-## Flujo de colaboración
+------
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
+
